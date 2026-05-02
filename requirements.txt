@@ -1,0 +1,6 @@
+# --- MATRIX BYPASS TOOLS ---
+pyrogram==2.0.106
+tgcrypto
+instagrapi
+requests
+flask
